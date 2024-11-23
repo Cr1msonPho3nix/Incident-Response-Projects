@@ -15,13 +15,13 @@ You retrieve the malicious file and create a SHA256 hash of the file. Now that y
 
   ## 2. VirusTotal scan
   - Detection:<br>
-  ![VirusTotal_Detection](https://github.com/Cr1msonPho3nix/Asset_Management/blob/main/img/Decrypt%20an%20encrypted%20message/2.decrypting_caesar.PNG)<br><br>
+  ![VirusTotal_Detection](https://github.com/Cr1msonPho3nix/Incident-Response-Projects/blob/main/img/1.1.virustotal_detection.PNG)<br><br>
 - Details
-  ![VirusTotal_Details](https://github.com/Cr1msonPho3nix/Asset_Management/blob/main/img/Decrypt%20an%20encrypted%20message/2.decrypting_caesar.PNG)<br><br>
+  ![VirusTotal_Details](https://github.com/Cr1msonPho3nix/Incident-Response-Projects/blob/main/img/1.2.virustotal_details.PNG)<br><br>
   - Behaviour
-  ![VirusTotal_Behaviour](https://github.com/Cr1msonPho3nix/Asset_Management/blob/main/img/Decrypt%20an%20encrypted%20message/2.decrypting_caesar.PNG)<br><br>
+  ![VirusTotal_Behaviour](https://github.com/Cr1msonPho3nix/Incident-Response-Projects/blob/main/img/1.3.virustotal_associations.PNG)<br><br>
   - Associations
-  ![VirusTotal_Associations](https://github.com/Cr1msonPho3nix/Asset_Management/blob/main/img/Decrypt%20an%20encrypted%20message/2.decrypting_caesar.PNG)<br><br>
+  ![VirusTotal_Associations](https://github.com/Cr1msonPho3nix/Incident-Response-Projects/blob/main/img/1.4.virustotal_behaviour.PNG)<br><br>
 
 ## 3. Determine whether the file is malicious
 - At the "Detection" tab most of the security vendor's analysis tags this program as a trojan.flagpro, something that has some importance later.
