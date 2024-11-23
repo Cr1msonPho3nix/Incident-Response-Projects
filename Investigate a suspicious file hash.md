@@ -13,8 +13,8 @@ You retrieve the malicious file and create a SHA256 hash of the file. Now that y
   - 1:15 p.m.: Multiple unauthorized executable files are created on the employee's computer.
   - 1:20 p.m.: An intrusion detection system detects the executable files and sends out an alert to the SOC.
 
-  ## 2. VirusTotal scan
-  - Detection:<br>
+## 2. VirusTotal scan
+- Detection:<br>
   ![VirusTotal_Detection](https://github.com/Cr1msonPho3nix/Incident-Response-Projects/blob/main/img/1.1.virustotal_detection.PNG)<br><br>
 - Details
   ![VirusTotal_Details](https://github.com/Cr1msonPho3nix/Incident-Response-Projects/blob/main/img/1.2.virustotal_details.PNG)<br><br>
