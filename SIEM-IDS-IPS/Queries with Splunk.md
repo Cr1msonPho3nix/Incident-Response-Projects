@@ -2,6 +2,7 @@
 You are a security analyst working at the e-commerce store Buttercup Games. You've been tasked with identifying whether there are any possible security issues with the mail server. To do so, you must explore any failed SSH logins for the root account.
 ## 1. Search all the information in index
 - Check all the data from "index":<br><br>
+
 ![1.1.SPLUNK.alltime.index](https://github.com/Cr1msonPho3nix/Incident-Response-Projects/blob/main/img/Queries_SPLUNK_1/1.1.SPLUNK.alltime.index.PNG)<br><br>
 
 Entering the query 'index="main"' and selecting 'All Time' from the time range gives us all the events accross all time
